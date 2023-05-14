@@ -2,3 +2,5 @@ numpy
 pandas
 Flask
 matplotlib
+seaborn
+scikit-learn
